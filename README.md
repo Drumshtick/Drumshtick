@@ -1,3 +1,5 @@
+<img style="width: 100%; height: auto;" src="https://github.com/Drumshtick/profile-source/blob/main/githubBanner.svg">
+
 - 👋 Hi, I’m @Drumshtick
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning Web Development
