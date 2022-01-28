@@ -1,4 +1,4 @@
-<img style="width: 100%; height: auto;" src="./img/githubBanner.svg">
+<img style="width: 100%; height: auto;" src="./img/gitHubBanner-alt.svg">
 <br />
 <br />
 <br />
@@ -23,8 +23,11 @@
       </div>
     </div>
   </div>
+    <a href="https://goo.gl/maps/n2pFLYTTUaMPnB9y5">  ➡️<span style="font-size: 32px">🗺️</span></a>
+    <h3 align="center">I am currently based in Saskatoon, Saskatchewan, Canada</h3>
     <br/>
-    <br/>
+
+_________________________
 
   <div align="center">
     <h2 stlye="text-align: left">Thanks for checking out my profile!</h3>
@@ -37,6 +40,4 @@
 
 <span style="clear: both;"></span>
 
-_________________________
 
-<h3 align="center">I am currently based in Saskatoon, Saskatchewan, Canada<br/><a href="https://goo.gl/maps/n2pFLYTTUaMPnB9y5">  ➡️<span style="font-size: 32px">🗺️</span></a</h3>
