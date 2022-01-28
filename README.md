@@ -23,7 +23,7 @@
       </div>
     </div>
   </div>
-  <div stlye="max-width: 100px">
+  <div align="center">
     <h2 stlye="text-align:right">Thanks for checking out my profile!</h3>
     <h3>Let's have a chat! I'm interested in discussing<br/> the future of the web, new technology in your stack,<br/> jobs for junior full stack web developers<br/> or just about anything<br/> (although I do like to nerd out about tech specifically)</h3>
   </div>
