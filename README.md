@@ -7,13 +7,13 @@
   <div>
     <img src="https://media.giphy.com/media/3oEdv1vkhqxcynkB5C/giphy.gif" width="250"/>
     <div id="badges" style="width: 100%; height: auto;">
-      <a href="https://www.linkedin.com/in/erikkodnar/">
+      <a href="https://www.linkedin.com/in/erikkodnar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       <a/>
-      <a href="https://medium.com/@Erik_Kodnar">
+      <a href="https://medium.com/@Erik_Kodnar" target="_blank">
         <img src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
       <a/>
-      <a href="https://twitter.com/Sudorm_rf_slash">
+      <a href="https://twitter.com/Sudorm_rf_slash" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
       <div>
