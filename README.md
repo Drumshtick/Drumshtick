@@ -29,7 +29,7 @@
   <div align="center">
     <h2 stlye="text-align: left">Thanks for checking out my profile!</h3>
     <br/>
-    <h3>Let's have a chat💬! I'm interested in discussing the future of the web 🔮, new technology in YOUR stack 🏆, jobs👔 for junior full stack web developers, books about programming that YOU love, or just about anything!! (although I do like to nerd out about tech specifically)<br/><br/>I'm open to collaboration on a variety of projects 🖥️, please see below for a brief overview of the various languages and frameworks I have had the great pleasure to learn. Included is a few of my public projects, although <a href="https://github.com/Drumshtick?tab=repositories" target="_blank">my repos</a> are also a good place to check!</h3>
+    <h3>Let's have a chat💬! I'm interested in discussing the future of the web 🔮, new technology in YOUR stack 🏆, jobs👔 for junior full stack web developers, books about programming 📖 that YOU love 🤟, or just about anything!! (although I do like to nerd out about ⚙️tech⚙️ specifically)<br/><br/>I'm open to collaboration on a variety of projects 🖥️, please see below for a brief overview of the various languages and frameworks I have had the great pleasure to learn. Included is a few of my public projects, although <a href="https://github.com/Drumshtick?tab=repositories" target="_blank">my repos</a> are also a good place to check!</h3>
   </div>
 
 </div>
