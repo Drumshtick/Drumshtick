@@ -67,4 +67,5 @@
 <span><img src="https://img.shields.io/badge/-Python-F6E05D?logo=python&logoColor=3F6D9A&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-illustrator-FA8106?logo=adobe&logoColor=251300&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Git%20Version%20Control-EE4F32?logo=git&logoColor=251300&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Raspberry%20Pi%20Enthusiast-EE4F32?logo=raspberrypi&style=for-the-badge"></span>
 
