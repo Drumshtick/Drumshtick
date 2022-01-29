@@ -1,4 +1,4 @@
-<img style="width: 100%; height: auto;" src="./img/gitHubBanner-alt.svg">
+<img style="width: 100%; height: auto;" src="./img/gitHubBanner-smooth.svg">
 <br />
 <br />
 <br />
