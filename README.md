@@ -49,13 +49,22 @@
 
 
 <span><img src="https://img.shields.io/badge/-%3C%20/%3E%20HTML+CSS-0068AF?logo=code&logoColor=white&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=251300&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Javascript-EEBC24?logo=javascript&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-ExpressJs-EEBC24?logo=express&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-jQuery-0068AF?logo=jquery&logoColor=white&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Mocha%20&%20Chai-86603F?logo=mocha&chai&logoColor=251300&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Storybook-E65481?logo=storybook&logoColor=251300&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Cypress-48474C?logo=cypress&logoColor=whit&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Jest-95717B?logo=jest&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Postgres-0078AA?logo=postgresql&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Ruby-A20001?logo=ruby&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Ruby+Rails-A20001?logo=rubyonrails&logoColor=white&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-RSpec-A20001?logo=ruby&logoColor=whit&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Capybara-A20001?logo=ruby&logoColor=whit&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-ANSI%20C-055A9D?logo=C&logoColor=white&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-Python-F6E05D?logo=python&logoColor=3F6D9A&style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/-illustrator-FA8106?logo=adobe&logoColor=251300&style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/-Git%20Version%20Control-EE4F32?logo=git&logoColor=251300&style=for-the-badge"></span>
+
