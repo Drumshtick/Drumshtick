@@ -36,7 +36,6 @@
 
   <h2 align="left">👋 Thanks for checking out my profile!</h2>
 
-__________________
 
   <div align="left">
     <br/>
@@ -48,7 +47,6 @@ __________________
 
 <h2>⚛️ Technology, tools and frameworks</h2>
 
-__________________
 
 <img src="https://img.shields.io/badge/-%3C%20/%3E%20HTML+CSS-0068AF?logo=code&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Javascript-EEBC24?logo=javascript&logoColor=white&style=for-the-badge">
