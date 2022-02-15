@@ -61,6 +61,9 @@
   <span>
     <img style="border-radius: 15px; margin-right: 5px;" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   </span>
+    <span>
+    <img style="border-radius: 15px; margin-right: 5px;" src="https://img.shields.io/badge/-NextJs-61DAFB?logo=nextjs&logoColor=white&style=for-the-badge">
+  </span>
   <span>
     <img style="border-radius: 15px; margin-right: 5px;" src="https://img.shields.io/badge/-ExpressJs-EEBC24?logo=express&logoColor=white&style=for-the-badge">
   </span>
