@@ -20,13 +20,16 @@
         <a href="mailto:ekodnar@outlook.com?subject=Let's%20Chat!">
           <img style="border-radius: 15px;" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email"/>
         </a>
+            <a href="https://stirring-twilight-08c6b1.netlify.app/" target="_blank">
+      <img style="border-radius: 15px;" src="https://img.shields.io/badge/➡%20👩‍💻%20%20My%20Web%20Page%20⬅-grey?style=for-the-badge&logo=&logoColor=black" alt="My Page"/>
+    <a/>
       </div>
     </div>
   </div>
     <a href="https://goo.gl/maps/n2pFLYTTUaMPnB9y5" target="_blank">
       <img style="border-radius: 15px;" src="https://img.shields.io/badge/Based%20in%20Saskatoon%20%F0%9F%8D%81-grey?style=for-the-badge">
     </a>
-    <br/>
+    <br />
 
 
 
